@@ -1,0 +1,71 @@
+﻿.indicator-true {
+    height: 50px;
+    width: 20px;
+    background-color: aquamarine;
+}
+
+.indicator-false {
+    height: 50px;
+    width: 20px;
+    background-color: crimson;
+}
+
+.user-name {
+    height: 50px;
+    width: 300px;
+    text-align: center;
+}
+
+    .user-name p {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+
+.user-points {
+    height: 50px;
+    width:100px;
+    text-align: center;
+}
+.user-points-hided {
+    height: 50px;
+    width: 100px;
+    background-color:black;
+    text-align: center;
+}
+
+    .user-points p {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+
+.my-btn {
+    padding: 0px 10px 0px 10px;
+}
+.my-btn-show {
+    padding: 0px 10px 0px 10px;
+    margin: 0px 0px 0px 30px;
+    background-color: #28a745;
+    border-color: darkgreen;
+    color:white;
+}
+
+    .my-btn-show:hover {
+        background-color: chartreuse;
+        color:black;
+        
+    }
+.border-solid-gray {
+    border: 1px solid gray;
+    width: fit-content;
+}
+.small-input-style{
+    width:500px;
+}
+
+.analysis-position{
+    position:absolute;
+    right:20%;
+    top:25%;
+    padding:30px;
+    border:1px solid gray;
+}

@@ -1,0 +1,62 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+
+
+
+
+
+
+body {
+    width: 100%;
+    height: 100%;
+    background: #f4f5f7;
+    padding-bottom: 20px;
+    background-color: $base-color;
+    color: $text-color;
+}
+
+p {
+    margin: 0px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.row-no-padding {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.row-no-margin {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.left-padding {
+    padding-left: 20px;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
